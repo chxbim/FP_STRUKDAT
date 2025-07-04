@@ -49,11 +49,11 @@ Pilih tipe struktur data:
 
 
 -- Contoh hasil tampilan data:
-
+````
 No | Waktu | Quantity
 1  | 09:45 | 15000
 2  | 13:20 | 25000
-
+````
 
 -- 💾 Format File `transaksi.txt`
 
@@ -92,7 +92,7 @@ g++ -std=c++11 -Wall -Wextra -o transaksi main.cpp
 -- 🧑‍💻 Kontributor
 
 - Christian Bimo Aryoputro (23081010223)
-- Muhammad Abdul Aziz (230**010***)
+- Muhammad Abdul Aziz (230//010///)
 
 
 
