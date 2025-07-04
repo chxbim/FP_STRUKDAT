@@ -30,7 +30,7 @@ Studi kasus yang diangkat adalah pencatatan transaksi top-up yang terjadi sepanj
 
 
 -- 🖥️ Tampilan Program (CLI)
-
+````
 Pilih tipe struktur data:
 
 1. AVL Tree
@@ -45,8 +45,8 @@ Pilih tipe struktur data:
 4. Cari data transaksi
 5. Tutup program
    Pilih menu: 1
-   Masukkan waktu transaksi (hh:mm) dan nominal: 09:45 15000
-
+Masukkan waktu transaksi (hh:mm) dan nominal: 09:45 15000
+````
 
 -- Contoh hasil tampilan data:
 ````
