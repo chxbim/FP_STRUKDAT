@@ -50,11 +50,9 @@ Pilih tipe struktur data:
 
 -- Contoh hasil tampilan data:
 
-
 No | Waktu | Quantity
 1  | 09:45 | 15000
 2  | 13:20 | 25000
-------------------
 
 
 -- 💾 Format File `transaksi.txt`
