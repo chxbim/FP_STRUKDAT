@@ -52,7 +52,6 @@ Pilih tipe struktur data:
 
 
 No | Waktu | Quantity
-
 1  | 09:45 | 15000
 2  | 13:20 | 25000
 ------------------
