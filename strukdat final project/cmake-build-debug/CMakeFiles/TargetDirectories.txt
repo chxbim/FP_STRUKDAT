@@ -1,0 +1,3 @@
+D:/JetBrains CLion/strukdat final project/cmake-build-debug/CMakeFiles/strukdat_final_project.dir
+D:/JetBrains CLion/strukdat final project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/JetBrains CLion/strukdat final project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
